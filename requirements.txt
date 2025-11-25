@@ -1,0 +1,7 @@
+streamlit==1.26.1
+pandas
+numpy
+scikit-learn
+xgboost
+langchain
+transformers
